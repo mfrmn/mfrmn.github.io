@@ -21,7 +21,8 @@
 
         <!-- jQuery -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-        
+
+        <!-- obfusticate email address -->
         <script type="text/javascript">
             $(document).ready(function(){
 
@@ -31,6 +32,18 @@
                 $("#contact_foot").attr("href", "mailto:" + $.trim($("#contact_email").text()));
 
             });
+        </script>
+        
+        <!-- google analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-64727703-1', 'auto');
+            ga('send', 'pageview');
+
         </script>
     </head>
     <body>
@@ -45,7 +58,7 @@
                     <ul class="sidenav-list">
                         <li class="sidenav-link"><a class="sidenav-title" href="/about/">About</a></li>
                         <li class="sidenav-link"><a class="sidenav-title" href="/research/">Research</a></li>
-<!--                        <li class="sidenav-link"><a class="sidenav-title" href="/datasci/" alt="data science">Data Sci</a></li>-->
+                        <!--                        <li class="sidenav-link"><a class="sidenav-title" href="/datasci/" alt="data science">Data Sci</a></li>-->
                         <li class="sidenav-link"><a class="sidenav-title" href="/CV/">CV</a></li>
                     </ul>
                 </div>
