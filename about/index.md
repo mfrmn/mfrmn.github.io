@@ -11,7 +11,7 @@ categories: main
 
 I am a fourth year Ph.D. candidate for Management Studies at the University of Cambridge working in the Operations subject group at the Judge Business School under the supervision of [Prof. Stefan Scholtes](http://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/). My research is fully funded by an Economic and Social Research Council DTC scholarship.
 
-Working as a data scientist in academia, I investigate how healthcare organisations can better manage their strategic challenges, adopting a data-driven approach in order to identify opportunities to increase efficiency, reduce costs and improve patient outcomes.
+Working as a [data scientist in academia](https://jakevdp.github.io/blog/2014/08/22/hacking-academia/), I investigate how healthcare organisations can better manage their strategic challenges, adopting a data-driven approach in order to identify opportunities to increase efficiency, reduce costs and improve patient outcomes.
 
 ## Education
 
