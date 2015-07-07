@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Partners
-cover: network.jpg
+cover: healthcare.jpg
 date:   2015-07-03 13:00:00
 categories: main
 ---
