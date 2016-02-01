@@ -2,7 +2,7 @@
 layout: main
 title: Research
 cover: ops.jpg
-date:   2015-06-22 12:00:00
+date:   2016-02-01 12:00:00
 categories: main
 ---
 
@@ -19,6 +19,6 @@ Under third round of review at *Management Science*.&nbsp; ([download](articles/
 
 ## Working papers
 
-[1] **Perverse Incentives Under the Prospective Payment System**, with Nicos Savva and Stefan Scholtes.
+[1] **Trading off Scale and Scope: Gaining Productivity through Elective Care Pooling in Regional Hospital Systems**, with Nicos Savva and Stefan Scholtes.
 
-*Please let me know if you would like a copy of any manuscripts when they become available!*
+*Please let me know if you would like a copy of any manuscripts when they become available*
