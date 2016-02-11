@@ -6,8 +6,8 @@ date:   2015-06-22 12:00:00
 categories: home
 ---
 
-Thank you for visiting my homepage. This is my personal website where you can find out about my [research](/research/) and a little bit more [about me](/about/).
+Welcome to my personal webpage, where I share information about my [research](/research/) interests and work, and where you can find out little bit more [about me](/about/). My research is broadly in the area of Operations Management with a focus on healthcare operations, service productivity and worker behavior. For more detail on my research please use the sidebar to visit the relevant page, or see my biography for an overview.
 
-If you would like to contact me or comment on any of the articles posted here (or on my academic articles) then I can be reached at <a target="_blank" id="contact" href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">mef3<span style="display:none">3829</span>5@cam.a<span style="display:none">k</span>c.uk</a></span>. I am very keen to collaborate on interesting projects (particularly with healthcare organisations), and am also available for ad-hoc consulting work.
+If you would like to contact me then I can be reached at <a target="_blank" id="contact" href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">mef3<span style="display:none">3829</span>5@cam.a<span style="display:none">k</span>c.uk</a></span>. I am very keen to collaborate with other researchers and to work with organizations - especially those working in the health space -  on projects of mutual interest.
 
 Thanks for stopping by!
