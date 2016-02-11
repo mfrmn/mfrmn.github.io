@@ -14,7 +14,7 @@ More information can be found at my Judge Business School [profile](http://www.j
 ## Papers under review
 
 [1] **Gatekeepers at Work: An Empirical Analysis of a Maternity Unit**, with Nicos Savva and Stefan Scholtes.
-Under third round of review at *Management Science*.&nbsp; ([download](articles/FSSJan2016.pdf))
+Minor revision at *Management Science*.&nbsp; ([download](articles/gatekeepersatwork_feb2016.pdf) | [supplementary](articles/supplementary_gatekeepersatwork_feb2016.pdf))
 <br>An earlier version of this paper was a finalist for the 2014 Pierskalla Award.
 
 ## Working papers
