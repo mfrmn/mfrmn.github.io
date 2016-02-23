@@ -8,7 +8,7 @@ categories: main
 
 ## Research interests
 
-Management of healthcare organizations; Service operations management for health service delivery; Health economics; Behavioral operations; Econometric methods.
+Management of healthcare organizations; Service operations management for health service delivery; Health economics; Behavioral operations; Empirical operations; Econometric methods.
 
 More information can be found in my [bio](/about/) or at my Judge Business School [profile](http://www.jbs.cam.ac.uk/programmes/research-programmes/current-phd-students-a-z/michael-freeman/).
 
