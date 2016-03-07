@@ -19,7 +19,7 @@ Michael has worked with a number of organizations prior to and during his PhD st
 
 ## Contact
 
-Please feel free to contact me if you would like to find out more about my research, to discuss shared interests, to collaborate on research projects, for ad-hoc consulting requests, or for any other reason.
+I would love to hear from you if you would like to find out more about my research, to discuss shared interests, to collaborate on research projects, for ad-hoc consulting requests, or for any other reason.
 My contact details are as follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attn: Michael Freeman<br>
