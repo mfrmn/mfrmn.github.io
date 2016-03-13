@@ -27,5 +27,5 @@ Gatekeeper Systems; Workload Management; Health care: Hospitals; Service Operati
 
 ### Downloads
 
-[Article](/research/articles/gatekeepersatwork_feb2016.pdf)<br>
-[Supplementary Material](/research/articles/supplementary_gatekeepersatwork_feb2016.pdf)
+[Article](/research/articles/gatekeepersatwork_mar2016.pdf)<br>
+[Supplementary Material](/research/articles/supplementary_gatekeepersatwork_mar2016.pdf)
