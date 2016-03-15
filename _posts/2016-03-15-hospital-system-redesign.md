@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hospital System Redesign
-date:   2016-03-15 12:00:00
+date:   2016-03-15 08:00:00
 categories: posts
 ---
 
