@@ -20,6 +20,6 @@ Accepted at *Management Science*.&nbsp; ([download](articles/gatekeepersatwork_m
 
 ## Papers under review / working papers
 
-[1] **Trading off Scale and Scope: Gaining Productivity through Elective Care Pooling in Regional Hospital Systems**, with Nicos Savva and Stefan Scholtes. Working paper.
+[1] **Trading off Scale and Scope: Gaining Productivity through Hospital System Redesign**, with Nicos Savva and Stefan Scholtes. Working paper.
 
 *Please let me know if you would like a copy of any manuscripts when they become available*
