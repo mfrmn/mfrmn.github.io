@@ -4,11 +4,11 @@
   }
 
   .header {
-    padding-top: 3.45em;
+    padding-top: 2.05em;
   }
   
   #cover-photo-container {
-    padding-top: 3.45em;
+    padding-top: 2.05em;
   }
 
   .posts {
@@ -31,12 +31,12 @@
   }
 
   .header {
-    padding-top: 3.85em;
+    padding-top: 2.05em;
   }
   
   
   #cover-photo-container {
-    padding-top: 3.85em;
+    padding-top: 2.05em;
   }
 
   .posts {
@@ -66,8 +66,9 @@
 
   #cover-photo-container {
     text-align: center;
+    padding-top: 0.55em;
   }
-
+  
   #title {
     font-size: 2.5em;
   }

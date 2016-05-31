@@ -178,9 +178,13 @@ a:hover {
     display: block;
 }
 
+#cover-photo-container {
+    padding-top: 2.05em;
+}
+
 #cover-photo {
     border-bottom: 5px solid #333232;
-    border-top: 3px solid #333232;
+    border-top: 5px solid #333232;
 }
 
 #info-container {
@@ -286,7 +290,7 @@ a:hover {
 
 .header {
     text-align: center;
-    padding-top: 2.5em;
+    padding-top: 2.05em;
     font-size: 1.1em;
 }
 
