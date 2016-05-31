@@ -2,13 +2,13 @@
 layout: main
 title: Research
 cover: ops.jpg
-date:   2016-02-01 12:00:00
+date:   2016-05-31 12:00:00
 categories: main
 ---
 
 ## Research interests
 
-Management of healthcare organizations; Service operations management for health service delivery; Health economics; Behavioral operations; Empirical operations; Econometric methods.
+Management of health care organizations; Service operations management for health service delivery; Managing complexity and variability in service systems; Worker behavior and behavioral operations; Empirical and data-driven operations; Health economics; Econometric methods.
 
 More information can be found in my [bio](/about/) or at my Judge Business School [profile](http://www.jbs.cam.ac.uk/programmes/research-programmes/current-phd-students-a-z/michael-freeman/).
 
@@ -20,6 +20,6 @@ Accepted at *Management Science*.&nbsp; ([download](articles/gatekeepersatwork_m
 
 ## Papers under review / working papers
 
-[1] **Trading off Scale and Scope: Gaining Productivity through Hospital System Redesign**, with Nicos Savva and Stefan Scholtes. Working paper.
+[1] **Economies of Scale in Hospital Care?**, with Nicos Savva and Stefan Scholtes. In preparation.
 
 *Please let me know if you would like a copy of any manuscripts when they become available*
