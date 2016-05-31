@@ -1,6 +1,6 @@
 @media (max-width:1309px) {
   #cover-photo {
-    max-width: 95%;
+    max-width: 100%;
   }
 
   .header {
@@ -44,11 +44,11 @@
   }
 
   .sidebar {
-    padding-left: 4em;
+    padding-left: 2.25em;
   }
 
   .content {
-    padding-right: 3em;
+    padding-right: 2.25em;
   }
 
   .footer {
