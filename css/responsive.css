@@ -6,6 +6,10 @@
   .header {
     padding-top: 3.45em;
   }
+  
+  #cover-photo-container {
+    padding-top: 3.45em;
+  }
 
   .posts {
     font-size: 0.9em;
@@ -27,6 +31,11 @@
   }
 
   .header {
+    padding-top: 3.85em;
+  }
+  
+  
+  #cover-photo-container {
     padding-top: 3.85em;
   }
 
