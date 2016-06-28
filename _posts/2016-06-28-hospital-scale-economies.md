@@ -27,7 +27,5 @@ Health care; Productivity; Economies of scale; Economies of scope; Complexity; E
 
 ### Downloads
 
-### Downloads
-
 [Article](/research/articles/hospitalscalescope_june2016.pdf)<br>
 [Supplementary Material](/research/articles/supplementary_hospitalscalescope_june2016.pdf)
