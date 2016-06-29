@@ -17,7 +17,7 @@ html, body {
 
 body {
     color: #4a4a4a;
-    background-color: #fafbfc;
+    background-color: #fefefe;
     font-family: 'Raleway', Arial, sans-serif;
     font-weight: 400;
     font-size: 0.85em;
@@ -153,6 +153,11 @@ a:hover {
     text-align: center;
 }
 
+#contact_email {
+    color: #fafbfc;
+}
+
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -173,9 +178,13 @@ a:hover {
     display: block;
 }
 
+#cover-photo-container {
+    padding-top: 2.05em;
+}
+
 #cover-photo {
     border-bottom: 5px solid #333232;
-    border-top: 3px solid #333232;
+    border-top: 5px solid #333232;
 }
 
 #info-container {
@@ -281,7 +290,7 @@ a:hover {
 
 .header {
     text-align: center;
-    padding-top: 2.5em;
+    padding-top: 2.05em;
     font-size: 1.1em;
 }
 
