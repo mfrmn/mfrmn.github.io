@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/hospital-scale-economies</loc>
+<loc>http://michael-freeman.net/hospital-scale-economies</loc>
 <lastmod>2016-06-28T09:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>/gatekeepers-at-work</loc>
+<loc>http://michael-freeman.net/gatekeepers-at-work</loc>
 <lastmod>2016-02-22T12:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>http://michael-freeman.net/about/</loc>
 </url>
 <url>
-<loc>/partners/</loc>
+<loc>http://michael-freeman.net/partners/</loc>
 </url>
 <url>
-<loc>/research/</loc>
+<loc>http://michael-freeman.net/research/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://michael-freeman.net/</loc>
 </url>
 <url>
-<loc>/CV/index.html</loc>
+<loc>http://michael-freeman.net/CV/index.html</loc>
 <lastmod>2015-06-22T12:24:43+01:00</lastmod>
 </url>
 </urlset>

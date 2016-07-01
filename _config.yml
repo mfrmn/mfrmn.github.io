@@ -1,4 +1,5 @@
 github: [metadata]
+url: http://michael-freeman.net
 permalink: /:title
 kramdown:
   input: GFM
