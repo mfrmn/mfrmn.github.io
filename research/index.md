@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Research
-cover: ops.jpg
+cover: hcwordcloud.jpg
 date:   2016-05-31 12:00:00
 categories: main
 ---
