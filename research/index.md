@@ -14,7 +14,7 @@ More information can be found in my [bio](/about/) or at my Judge Business Schoo
 
 ## Papers in peer reviewed journals
 
-**Gatekeepers at Work: An Empirical Analysis of a Maternity Unit**, with Nicos Savva and Stefan Scholtes.
+__Gatekeepers at Work: An Empirical Analysis of a Maternity Unit__, with Nicos Savva and Stefan Scholtes.
 Accepted at *Management Science*.&nbsp; ([link](/gatekeepers-at-work))
 <br>An earlier version of this paper was a finalist for the 2014 Pierskalla Award.
 
