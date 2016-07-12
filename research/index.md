@@ -14,14 +14,14 @@ More information can be found in my [bio](/about/) or at my Judge Business Schoo
 
 ## Papers in peer reviewed journals
 
-__Gatekeepers at Work: An Empirical Analysis of a Maternity Unit__, with Nicos Savva and Stefan Scholtes.
+Gatekeepers at Work: An Empirical Analysis of a Maternity Unit, with Nicos Savva and Stefan Scholtes.
 Accepted at *Management Science*.&nbsp; ([link](/gatekeepers-at-work))
 <br>An earlier version of this paper was a finalist for the 2014 Pierskalla Award.
 
 ## Papers under review / working papers
 
-**Economies of Scale and Scope in Hospitals**, with Nicos Savva and Stefan Scholtes. Under review at *Management Science*. ([link](/hospital-scale-economies))
+Economies of Scale and Scope in Hospitals, with Nicos Savva and Stefan Scholtes. Under review at *Management Science*. ([link](/hospital-scale-economies))
 
-**Fat-Tails, Hospital Costs, and the Prospective Payment System**, with Paul Kattuman and Stefan Scholtes. In preparation.
+Fat-Tails, Hospital Costs, and the Prospective Payment System, with Paul Kattuman and Stefan Scholtes. In preparation.
 
 *Please let me know if you would like a copy of any manuscripts when they become available*
