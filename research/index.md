@@ -22,6 +22,8 @@ Accepted at *Management Science*.&nbsp; ([link](/gatekeepers-at-work))
 
 Economies of Scale and Scope in Hospitals, with Nicos Savva and Stefan Scholtes. Under review at *Management Science*. ([link](/hospital-scale-economies))
 
+An Empirical Study of Risk Aversion in Gatekeeping Systems: Evidence from the Emergency Department, with Stefan Scholtes. Working paper.
+
 Fat-Tails, Hospital Costs, and the Prospective Payment System, with Paul Kattuman and Stefan Scholtes. In preparation.
 
 *Please let me know if you would like a copy of any manuscripts when they become available*
