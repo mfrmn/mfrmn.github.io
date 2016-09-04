@@ -6,7 +6,7 @@ date:   2015-06-22 12:00:00
 categories: home
 ---
 
-**I am currently on the job market and will be available for interview during the 2016 INFORMS annual meeting in Nashville, TA in November.**
+**I am currently on the job market and will be available for interview during the 2016 INFORMS annual meeting in Nashville, TA.**
 
 Welcome to my personal webpage, where I share information about my [research](/research/) interests and work, and where you can find out a little bit more [about me](/about/). My research is broadly in the area of Operations Management with a focus on health care operations, service productivity, complexity and uncertainty in service delivery, and worker behavior. For more detail on my research please use the sidebar to visit the relevant page, or see my biography for an overview.
 
