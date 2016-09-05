@@ -16,9 +16,9 @@ A number of the organizations who I have partnered with are listed below. If you
 
 ![Cambridge University Hospitals](/images/logos/cuh.jpg "Cambridge University Hospitals")
 
-![Papworth Hospital](/images/logos/papworth.jpg “Papworth Hospital”)
+![Papworth Hospital](/images/logos/papworth.jpg "Papworth Hospital")
 
-![Cambridgeshire and Peterborough Clinical Commissioning Group](/images/logos/campetccg.jpg “Cambridgeshire and Peterborough Clinical Commissioning Group”)
+![Cambridgeshire and Peterborough Clinical Commissioning Group](/images/logos/campetccg.jpg "Cambridgeshire and Peterborough Clinical Commissioning Group")
 
 ![Dr Foster](/images/logos/drfoster.jpg "Dr Foster")
 
