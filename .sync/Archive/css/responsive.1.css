@@ -1,0 +1,112 @@
+@media (max-width:1309px) {
+  #cover-photo {
+    max-width: 100%;
+  }
+
+  .header {
+    padding-top: 2.05em;
+  }
+  
+  #cover-photo-container {
+    padding-top: 2.05em;
+  }
+
+  .posts {
+    font-size: 0.9em;
+  }
+
+  .footer {
+    font-size: 0.85em;
+  }
+  
+  .content {
+    padding-right: 2.25em;
+  }
+}
+
+@media (max-width:1090px) {
+  #logo {
+    max-width: 100px;
+  }
+    
+    #cjbslogo {
+    margin-left:-40px;
+    max-width: 200px;
+    }
+
+  #title {
+    font-size: 2.75em;
+    line-height: 35px;
+  }
+
+  .header {
+    padding-top: 2.05em;
+  }
+  
+  
+  #cover-photo-container {
+    padding-top: 2.05em;
+  }
+
+  .posts {
+    font-size: 0.85em;
+  }
+
+  .sidebar {
+    padding-left: 2.25em;
+  }
+
+  .content {
+    padding-right: 2.25em;
+  }
+
+  .footer {
+    font-size: 0.85em;
+  }
+}
+
+/**
+ * iPhone width
+ **/
+@media (max-width:640px) {
+  #logo {
+    max-width: 75px;
+  }
+
+  #cover-photo-container {
+    text-align: center;
+    padding-top: 0.55em;
+  }
+  
+  #title {
+    font-size: 2.5em;
+  }
+
+  .sidebar {
+    transition: 1s;
+    margin-left: -100%;
+    z-index: 3;
+    width: 35%;
+    padding-left: 1.75em;
+  }
+
+  .content {
+    z-index: 1;
+    padding-right: 2em;
+  }
+
+  #sidebar-button {
+    display: block;
+    z-index: 2;
+  }
+}
+
+/*****************************************************************************/
+/*
+/* Sidebar responsive animations
+/*
+/*****************************************************************************/
+
+.slideIn {
+  margin-left: 0%;
+}

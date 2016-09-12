@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Michael Freeman :: {{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Responsive CSS -->
+        <link rel="stylesheet" href="/css/responsive.css">
+
+        <!-- Google Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- jQuery -->
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+
+        <!-- Obfusticate email address -->
+        <script type="text/javascript">
+            $(document).ready(function(){
+
+                $("#contact span").remove();
+                $("#contact").attr("href", "mailto:" + $.trim($("#contact").text()));
+                $("#contact_email span").remove();
+                $("#contact_foot").attr("href", "mailto:" + $.trim($("#contact_email").text()));
+
+            });
+        </script>
+        
+        <!-- google analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-64727703-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+    </head>
+    <body>
+        <div class="site">
+            <div class="sidebar" id="sidebar">
+                <div class="header">
+                    <h1 class="title"><a href="/"><img id="logo" src="/images/mef.jpg"></a></h1>
+                    <span class="myname">Michael E. Freeman</span>
+                    <span class="tagline">Ph.D. Candidate in<br> Operations Management</span>
+                </div>
+                <div class="sidenav">
+                    <ul class="sidenav-list">
+                        <li class="sidenav-link"><a class="sidenav-title" href="/">Home</a></li>                      
+                        <li class="sidenav-link"><a class="sidenav-title" href="/about/">About</a></li>
+                        <li class="sidenav-link"><a class="sidenav-title" href="/research/">Research</a></li>
+                        <li class="sidenav-link"><a class="sidenav-title" href="/partners/">Partners</a></li>
+                        <!--                        <li class="sidenav-link"><a class="sidenav-title" href="/datasci/" alt="data science">Data Sci</a></li>-->
+                        <li class="sidenav-link"><a class="sidenav-title" href="/CV/">CV</a></li>
+                    </ul>
+                </div>
+                <div class="posts">
+                    <span class="blogroll-title">Articles</span>
+                    <ul class="posts-list">
+                        {% for post in site.posts limit:3 %}
+                        <li class="post-link">
+                            <a class="post-title" href="{{ post.url }}">
+                                <span class="post-date">{{ post.date | date_to_string }}</span>
+                                {{ post.title }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <span><a>Read more articles</a><br>&nbsp;</span>
+                </div>
+                <div class="footer">
+                    <span id="footer-links">
+                        <a href="https://scholar.google.co.uk/citations?hl=en&user=QkeVpDgAAAAJ" class="footer-link">Scholar</a> <span class="separator">&bull;</span>
+                        <a href="https://uk.linkedin.com/in/mfrmn" class="footer-link">LinkedIn</a> <span class="separator">&bull;</span>
+                        <a href="https://github.com/mfrmn/" class="footer-link">GitHub</a>
+                    </span>
+                </div>
+                <div id="cjbslogo"><img id="cjbs-logo" src="/images/logos/cjbs-logo.png" width="200px;"></div>
+            </div>
+            
+            {{ content }}
+        
+        </div>
+        <script src="/scripts/responsive.js" type="text/javascript"></script>
+    </body>
+</html>

@@ -2,7 +2,7 @@
 layout: main
 title: Partners
 cover: healthcare.jpg
-date:   2016-09-04 12:00:00
+date:   2016-09-12 12:00:00
 categories: main
 ---
 
@@ -23,6 +23,8 @@ A number of the organizations who I have partnered with are listed below. Please
 ![Papworth Hospital](/images/logos/papworth.jpg "Papworth Hospital")
 
 ![Cambridgeshire and Peterborough Clinical Commissioning Group](/images/logos/campetccg.jpg "Cambridgeshire and Peterborough Clinical Commissioning Group")
+
+![Healthcare Financial Management Association](/images/logos/hfma.jpg "Healthcare Financial Management Association")
 
 ![Dr Foster](/images/logos/drfoster.jpg "Dr Foster")
 
