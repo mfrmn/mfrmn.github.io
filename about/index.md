@@ -34,7 +34,7 @@ My contact details are as follows:
 
 Listed below is a selection of other places that you can find me on the internet.
 
-- [Profile](http://www.jbs.cam.ac.uk/programmes/research-programmes/current-phd-students-a-z/michael-freeman/) on Cambridge Judge Business School website
+- [Profile](http://www.jbs.cam.ac.uk/programmes/research-programmes/current-phd-students-a-z/michael-freeman/) on the University of Cambridge, Judge Business School website
 - [LinkedIn](https://uk.linkedin.com/in/mfrmn)
 - [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=QkeVpDgAAAAJ)
 - [GitHub](https://github.com/mfrmn/)
