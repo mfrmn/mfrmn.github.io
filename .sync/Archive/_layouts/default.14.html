@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Michael Freeman :: Partners</title>
+        <title>Michael Freeman :: {{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
@@ -52,7 +52,7 @@
                 <div class="header">
                     <img id="cjbslogo" src="/images/logos/cjbs-logo.png">
                     <h1 class="title"><a href="/"><img id="logo" src="/images/mef.jpg"></a></h1>
-                    <span class="myname">Michael Freeman</span>
+                    <span class="myname">Michael E. Freeman</span>
                     <span class="tagline">Ph.D. Candidate in<br> Operations Management</span>
                 </div>
                 <div class="sidenav">
@@ -68,21 +68,14 @@
                 <div class="posts">
                     <span class="blogroll-title">Articles</span>
                     <ul class="posts-list">
-                        
+                        {% for post in site.posts limit:3 %}
                         <li class="post-link">
-                            <a class="post-title" href="/scale-scope-hospital-productivity">
-                                <span class="post-date">28 Jun 2016</span>
-                                Hospital Productivity Spillovers
+                            <a class="post-title" href="{{ post.url }}">
+                                <span class="post-date">{{ post.date | date_to_string }}</span>
+                                {{ post.title }}
                             </a>
                         </li>
-                        
-                        <li class="post-link">
-                            <a class="post-title" href="/gatekeepers-at-work">
-                                <span class="post-date">22 Feb 2016</span>
-                                Gatekeepers at Work
-                            </a>
-                        </li>
-                        
+                        {% endfor %}
                     </ul>
                     <span><a>Read more articles</a><br>&nbsp;</span>
                 </div>
@@ -95,57 +88,7 @@
                 </div>
             </div>
             
-            <div class="content" id="home">
-    <div id="sidebar-button">
-        <img src="/images/sidebar-button.png">
-    </div>
-    <div id="post-info">
-        <div id="cover-photo-container">
-            <img id="cover-photo" src="/images/healthcare.jpg">
-        </div>
-        <div id="info-container">
-            <!-- <h1 id="title">Partners</h1> -->
-        </div>
-    </div>
-
-    <div class="post">
-        <h2 id="collaborations">Collaborations</h2>
-
-<p>I have worked with various organizations in the health care sector to explore ways in which they can use the data that they collect to make better informed decisions. Examples of recent projects include:</p>
-
-<ul>
-  <li>Examining data on emergency department attendances in the Cambridgeshire regional health economy to identify patterns associated with increases in demand.</li>
-  <li>Building a predictive algorithm to identify which patients over the age of 65 are most likely to return to hospital and those who might benefit most from a community intervention.</li>
-  <li>Quantifying the extent to which an intervention targeted at reducing surgical site infections was successful, and the clinical and financial impact.</li>
-</ul>
-
-<p>A number of the organizations who I have partnered with are listed below. Please feel free to email me if you would like to find out more about my previous projects, are an organization and would like advice on how to better leverage your data to inform strategic decision making, or would like to collaborate on a project of mutual (research related and practical) interest.</p>
-
-<h2 id="partner-organizations">Partner organizations</h2>
-
-<p><img src="/images/logos/cuh.jpg" alt="Cambridge University Hospitals" title="Cambridge University Hospitals" /></p>
-
-<p><img src="/images/logos/papworth.jpg" alt="Papworth Hospital" title="Papworth Hospital" /></p>
-
-<p><img src="/images/logos/campetccg.jpg" alt="Cambridgeshire and Peterborough Clinical Commissioning Group" title="Cambridgeshire and Peterborough Clinical Commissioning Group" /></p>
-
-<p><img src="/images/logos/hfma.jpg" alt="Healthcare Financial Management Association" title="Healthcare Financial Management Association" /></p>
-
-<p><img src="/images/logos/drfoster.jpg" alt="Dr Foster" title="Dr Foster" /></p>
-
-<p><img src="/images/logos/unitingcare.jpg" alt="UnitingCare Partnership" title="UnitingCare Partnership" /></p>
-
-    </div>
-    <div class="colophon">
-        <p>
-            <span id="pub-date">Last updated on 12 Sep 2016</span> <span class="separator">&bull;</span>
-        <span id="social">Contact me by <a target="_blank" id="contact_foot" href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">email</a></span> <span class="separator">&bull;</span>
-      <span id="social">Connect with me on <a href="https://uk.linkedin.com/in/mfrmn">LinkedIn</a></span>
-    </p>
-  </div>
-</div>
-<span id="contact_email">mef3<span style="display:none">3829</span>5@cam.a<span style="display:none">k</span>c.uk</a></span>
-
+            {{ content }}
         
         </div>
         <script src="/scripts/responsive.js" type="text/javascript"></script>
