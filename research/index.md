@@ -2,7 +2,7 @@
 layout: main
 title: Research
 cover: hcresearch.jpg
-date:   2016-05-31 12:00:00
+date:   2016-09-14 12:00:00
 categories: main
 ---
 
