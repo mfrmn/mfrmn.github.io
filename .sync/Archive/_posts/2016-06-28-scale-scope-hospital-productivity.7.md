@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productivity Spillovers in Hospitals
+title: Spillovers in Hospital Productivity
 date:   2016-09-19 08:00:00
 categories: posts
 ---

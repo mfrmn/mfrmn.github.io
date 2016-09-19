@@ -5,7 +5,7 @@ date:   2016-02-22 12:00:00
 categories: posts
 ---
 
-<h1 id="title"> Gatekeepers at Work:<br/> An Empirical Analysis of a Maternity Unit</h1>
+<h1 id=title> Gatekeepers at Work:<br/> An Empirical Analysis of a Maternity Unit</h1>
 
 
 ### Status
@@ -28,6 +28,6 @@ Gatekeeper Systems; Workload Management; Health care: Hospitals; Service Operati
 
 ### Downloads
 
-[External link](http://dx.doi.org/10.1287/mnsc.2016.2512)<br>
-[Website version](/research/articles/gatekeepersatwork_mar2016.pdf)<br>
+[Direct link](http://dx.doi.org/10.1287/mnsc.2016.2512)<br>
+[Article](/research/articles/gatekeepersatwork_mar2016.pdf)<br>
 [Electronic companion](/research/articles/supplementary_gatekeepersatwork_mar2016.pdf)

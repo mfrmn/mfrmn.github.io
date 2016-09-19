@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Productivity Spillovers in Hospitals
-date:   2016-09-19 08:00:00
+title: Hospital Productivity Spillovers
+date:   2016-06-28 08:00:00
 categories: posts
 ---
 
@@ -9,7 +9,7 @@ categories: posts
 
 ### Status
 
-Under revision for *Management Science* (reject with invitation to resubmit).
+Under revision for *Management Science* (following reject with invitation to resubmit).
 
 ### Authors
 

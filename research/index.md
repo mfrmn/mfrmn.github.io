@@ -24,7 +24,7 @@ More information can be found in my [bio](/about/).
 
 ## Papers under review / working papers
 
-[2] Scale, Scope and Hospital Productivity: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with invitation to resubmit). ([link](/scale-scope-hospital-productivity))
+[2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with invitation to resubmit). ([link](/scale-scope-hospital-productivity))
 
 [3] Risk Aversion in Gatekeeping Systems: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission to *Management Science*.
 

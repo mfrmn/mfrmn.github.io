@@ -197,15 +197,15 @@ a:hover {
 }
 
 #info-container {
-    margin-top: 2.2em;
+    margin-top: 2em;
     margin-bottom: 1.5em;
 }
 
 #title {
     color: #4a4a4a;
-    margin-bottom: 0.75em;
-    font-size: 2em;
-    line-height: 35px;
+    margin-bottom: 0.35em;
+    font-size: 3em;
+    line-height: 40px;
     text-transform: uppercase;
 }
 
