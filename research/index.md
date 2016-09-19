@@ -30,7 +30,7 @@ More information can be found in my [bio](/about/).
 
 [2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with invitation to resubmit). ([link](/scale-scope-hospital-productivity))
 
-[3] Risk Aversion in Gatekeeping Systems: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission to *Management Science*.
+[3] Risk Aversion in Gatekeeping Systems: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission. (online version coming soon)
 
 [4] Fat-Tails in Hospital Costs: Evidence and Implications for Tariff-Based Compensation System, with Paul Kattuman and Stefan Scholtes. Work-in-progress.
 
