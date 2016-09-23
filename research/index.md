@@ -10,8 +10,6 @@ categories: main
 
 Management of health care organizations; Service operations management for health service delivery; Empirical and data-driven operations management; Worker behavior and behavioral operations; Hospital productivity and health economics; Econometric methods.
 
-More information can be found in my [bio](/about/).
-
 ## Research overview [(pdf)](/research/FreemanMichael_ResearchSummary.pdf)
 
 The health care industry – one of the world’s largest and fastest-growing industries, consuming nearly 10% of world and over 17% of US GDP – faces a tripartite challenge: costs continue to outgrow income, populations are ageing and becoming increasingly comorbid, while fewer people of working age are available to cover these expanding costs. To meet the fundamental challenge of improving clinical outcomes while controlling costs there is thus a pressing need to rethink and transform systems of health care delivery. At the same time, expansions in data and information sharing in the health sector have exposed huge disparity in costs and outcomes across providers, regions, and countries, signalling significant opportunities for shorter-term improvements in the coordination of health services. Leveraging this increasingly detailed process-, organization- and system-level data, my research employs sophisticated econometric techniques to explore how organizational conditions create discrepancies in health care delivery. By understanding these processes and mechanisms better, my research aims to inform and transform the ways in which health professionals and policymakers provide effective and efficient care.
