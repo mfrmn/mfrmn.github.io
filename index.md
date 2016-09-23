@@ -6,7 +6,7 @@ date:   2016-09-12 12:00:00
 categories: home
 ---
 
-<p style="color:#8b0000;font-style:italic"><b>I am currently on the academic job market and will be available for interview during the 2016 INFORMS annual meeting in Nashville, TA.</b></p>
+<p style="color:#8b0000;font-style:italic"><b>I am currently on the academic job market and will be available for interview during the 2016 Workshop in Empirical OM at Wharton or at the INFORMS annual meeting in Nashville, TA.</b></p>
 
 Welcome to my personal research site, where I share information about my [research](/research/) interests and work, and where you can find out more [about me](/about/). My research is broadly in the area of Operations Management with a focus on *empirical health care operations*.
 
