@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productivity Spillovers in Hospitals
+title: Economies of Scale and Scope in Hospitals
 date:   2016-09-19 08:00:00
 categories: posts
 ---
