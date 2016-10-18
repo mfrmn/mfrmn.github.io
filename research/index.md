@@ -27,8 +27,10 @@ In future research, I intend to continue to study how health service delivery ca
 ## Papers under review / working papers
 
 [2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with the invitation to resubmit). ([link](/scale-scope-hospital-productivity))
+<br>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;Finalist for the 2016 MSOM Student Paper Competition.
 
-[3] Gatekeeping Under Uncertainty: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission. (online version coming soon)
+
+[3] Gatekeeping Under Uncertainty: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission. ([link](/gatekeeping-under-uncertainty))
 
 [4] Fat-Tails in Hospital Costs: Evidence and Implications for Tariff-Based Compensation System, with Paul Kattuman and Stefan Scholtes. Work-in-progress.
 
