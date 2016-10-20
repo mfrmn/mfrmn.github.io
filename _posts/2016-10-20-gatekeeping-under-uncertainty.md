@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gatekeeping Under Uncertainty
-date:   2016-10-02 08:00:00
+date:   2016-10-20 08:00:00
 categories: posts
 ---
 
@@ -27,4 +27,3 @@ Gatekeeper systems; Routing; Server behavior; Uncertainty; Health care; Hospital
 ### Downloads
 
 [Website version](/research/articles/gatekeepingunderuncertainty_oct2016.pdf)
-Coming soon.
