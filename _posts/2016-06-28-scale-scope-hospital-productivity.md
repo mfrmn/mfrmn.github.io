@@ -27,5 +27,5 @@ Health care; Productivity; Economies of scale; Economies of scope; Spillovers; C
 
 ### Downloads
 
-[Website version](/research/articles/hospitalscalescope_sep2016.pdf)<br>
+[Working paper](/research/articles/hospitalscalescope_sep2016.pdf)<br>
 [Supplementary material](/research/articles/supplementary_hospitalscalescope_june2016.pdf)

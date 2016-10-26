@@ -26,4 +26,4 @@ Gatekeeper systems; Routing; Server behavior; Uncertainty; Health care; Hospital
 
 ### Downloads
 
-[Website version](/research/articles/gatekeepingunderuncertainty_oct2016.pdf)
+[Working paper](/research/articles/gatekeepingunderuncertainty_oct2016.pdf)
