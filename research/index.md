@@ -2,7 +2,7 @@
 layout: main
 title: Research
 cover: hcresearch.jpg
-date:   2016-10-19 12:00:00
+date:   2016-11-16 12:00:00
 categories: main
 ---
 
@@ -20,12 +20,14 @@ My research is, broadly, empirical in approach and focuses on topics in health c
 
 [1] Gatekeepers at Work: An Empirical Analysis of a Maternity Unit, with Nicos Savva and Stefan Scholtes.
 *Management Science*, Articles in Advance.&nbsp; ([link](/gatekeepers-at-work))
-<br>&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;An earlier version of this paper was a finalist for the 2014 Pierskalla Award.
+<br style="line-height:190%;"/>
+&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;An earlier version of this paper was a finalist for the 2014 Pierskalla Award.
 
 ## Papers under review / working papers
 
 [2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with the invitation to resubmit). ([link](/scale-scope-hospital-productivity))
-<br>&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;Finalist for the 2016 MSOM Student Paper Competition.
+<br style="line-height:190%;"/>
+&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;First Prize for the 2016 MSOM Student Paper Competition.
 
 
 [3] Gatekeeping Under Uncertainty: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission. ([link](/gatekeeping-under-uncertainty))
