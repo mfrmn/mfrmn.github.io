@@ -6,7 +6,7 @@ date:   2016-11-16 12:00:00
 categories: home
 ---
 
-<p style="color:#8b0000;font-style:italic"><b>I am currently on the academic job market and am available for interview.</b></p>
+<p style="font-style:italic"><b>I will be joining INSEAD (Singapore) as an Assistant Professor in Technology and Operations Management, starting July 2017.</b></p>
 
 Welcome to my personal research site, where I share information about my [research](/research/) interests and work, and where you can find out more [about me](/about/). My research is broadly in the area of Operations Management with a focus on *empirical health care operations*.
 
