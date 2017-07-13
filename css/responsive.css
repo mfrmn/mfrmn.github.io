@@ -2,11 +2,13 @@
   #cover-photo {
     max-width: 100%;
   }
+  
+    #logo {
+    max-width: 150px;
+}
     
-    
-    #cjbslogo {
-    margin-left:-50px;
-    max-width: 225px;
+    #inseadlogo {
+    max-width: 170px;
     }
 
   .header {
@@ -35,9 +37,8 @@
     max-width: 100px;
   }
     
-    #cjbslogo {
-    margin-left:-30px;
-    max-width: 150px;
+    #inseadlogo {
+    max-width: 120px;
     }
 
   #title {
@@ -76,8 +77,12 @@
  **/
 @media (max-width:640px) {
   #logo {
-    max-width: 75px;
+    max-width: 150px;
   }
+  
+    #inseadlogo {
+    max-width: 150px;
+    }
 
   #cover-photo-container {
     text-align: center;

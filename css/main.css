@@ -58,12 +58,12 @@ a:hover {
     margin-bottom:10px;
 }
 
-#cjbslogo {
-    margin-left:-55px;
-    max-width: 250px;
-    height: auto;
+#inseadlogo {
+  max-width: 200px;
+    width: 100%;
     float: center;
-    padding-bottom: 15px;
+    height: auto;
+    padding-bottom: 10px;
 }
 
 .posts a {
@@ -131,11 +131,12 @@ a:hover {
 .tagline {
     color: #787878;
     width: 100%;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
     margin-top: 0.25em;
     display: block;
     font-size: 1em;
+    line-height:1.25em;
 }
 
 .sidenav {
