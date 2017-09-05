@@ -28,7 +28,7 @@ My research is, broadly, empirical in approach and focuses on topics in health c
 &nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;First Prize for the 2016 MSOM Student Paper Competition.
 
 
-[3] Gatekeeping Under Uncertainty: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. In preparation for submission. ([link](/gatekeeping-under-uncertainty))
+[3] Gatekeeping Under Congestion: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. Submitted to *Management Science*. ([link](/gatekeeping-under-congestion))
 
 [4] Fat-Tails in Hospital Costs: Evidence and Implications for Tariff-Based Compensation System, with Paul Kattuman and Stefan Scholtes. Work-in-progress.
 
