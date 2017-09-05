@@ -23,7 +23,7 @@ My research is, broadly, empirical in approach and focuses on topics in health c
 
 ## Papers under review / working papers
 
-[2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science* (following reject with the invitation to resubmit). ([link](/scale-scope-hospital-productivity))
+[2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science*. ([link](/scale-scope-hospital-productivity))
 <br style="line-height:190%;"/>
 &nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;First Prize for the 2016 MSOM Student Paper Competition.
 
