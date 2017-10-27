@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gatekeeping Under Congestion
-date:   2017-09-01 08:00:00
+date:   2017-10-27 08:00:00
 categories: posts
 ---
 
@@ -9,7 +9,7 @@ categories: posts
 
 ### Status
 
-Submitted to *Management Science*.
+Under revision.
 
 ### Authors
 
