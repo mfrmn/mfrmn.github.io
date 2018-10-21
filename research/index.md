@@ -2,7 +2,7 @@
 layout: main
 title: Research
 cover: hcresearch.jpg
-date:   2017-07-01 12:00:00
+date:   2018-10-20 12:00:00
 categories: main
 ---
 
@@ -12,7 +12,7 @@ Management of health care organizations; Service operations management for healt
 
 ## Research overview
 
-My research is, broadly, empirical in approach and focuses on topics in health care operations management. I investigate in particular how hospitals – described by Clayton Christensen as “some of the most managerially intractable institutions in the annals of capitalism” – are affected both operationally and financially by the tremendous variability and uncertainty in patients’ service needs, and propose ways to better manage the resultant complexity. To this end, I currently have three papers on this topic (available below). The [first](/gatekeepers-at-work), accepted at *Management Science*, shows that health care access varies depending on the workload of the service provider, with service complexity moderating this relationship. The [second](/scale-scope-hospital-productivity), in preparation for resubmission to *Management Science*, investigates the productivity implications of treating together patients with different levels of urgency and clinical need, finding benefits of greater specialization for planned care and pooling for emergent care. The [third](/gatekeeping-under-uncertainty), in preparation for submission, examines the impact on routing decisions when diagnostic uncertainty is high and decision-makers are risk averse and explores a mechanism that can be employed to reduce variability in service delivery.
+My research is, broadly, empirical in approach and focuses on topics in health care operations management. I investigate in particular how hospitals – described by Clayton Christensen as “some of the most managerially intractable institutions in the annals of capitalism” – are affected both operationally and financially by the tremendous variability and uncertainty in patients’ service needs, and propose ways to better manage the resultant complexity. To this end, I currently have three papers on this topic (available below). The [first](/gatekeepers-at-work), accepted at *Management Science*, shows that health care access varies depending on the workload of the service provider, with service complexity moderating this relationship. The [second](/scale-scope-hospital-productivity), in preparation for resubmission to *Management Science*, investigates the productivity implications of treating together patients with different levels of urgency and clinical need, finding benefits of greater specialization for planned care and pooling for emergent care. The [third](/gatekeeping-under-uncertainty), resubmitted to *Management Science*, examines the impact on routing decisions when diagnostic uncertainty is high and decision-makers are risk averse and explores a mechanism that can be employed to reduce variability in service delivery.
 
 ## Papers in peer reviewed journals
 
@@ -23,12 +23,11 @@ My research is, broadly, empirical in approach and focuses on topics in health c
 
 ## Papers under review / working papers
 
-[2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Under revision for *Management Science*. ([link](/scale-scope-hospital-productivity))
+[2] Economies of Scale and Scope in Hospitals: An Empirical Study of Volume Spillovers Across Hospital Services, with Nicos Savva and Stefan Scholtes. Major revision at *Management Science*. ([link](/scale-scope-hospital-productivity))
 <br style="line-height:190%;"/>
 &nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;First Prize for the 2016 MSOM Student Paper Competition.
 
-
-[3] Gatekeeping Under Congestion: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. Submitted to *Management Science*. ([link](/gatekeeping-under-congestion))
+[3] Gatekeeping Under Congestion: An Empirical Study of Referral Errors in the Emergency Department, with Stefan Scholtes. Major revision at *Management Science*. ([link](/gatekeeping-under-congestion))
 
 [4] Fat-Tails in Hospital Costs: Evidence and Implications for Tariff-Based Compensation System, with Paul Kattuman and Stefan Scholtes. Work-in-progress.
 

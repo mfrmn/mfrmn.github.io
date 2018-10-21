@@ -6,7 +6,7 @@ date:   2017-07-01 12:00:00
 categories: home
 ---
 
-Welcome to my personal research site, where I share information about my [research](/research/) interests and work, and where you can find out more [about me](/about/). My research is broadly in the area of Operations Management with a focus on *empirical health care operations*.
+Welcome to my personal research site, where I share my ongoing research (specific articles can be accessed from the sidebar) and work, and where you can find out more [about me](/about/). My research is broadly in the area of Operations Management with a focus on *empirical health care operations*.
 
 ### Why health care operations management?
 
@@ -16,9 +16,8 @@ For more than a century, better nutrition and innovation in hygiene and health c
 
 More detailed information can be found at the following pages:
 
-* [Curriculum vitae](/CV/)
 * [My bio](/about/)
-* [Research articles and interests](/research/)
+* [Curriculum vitae](/CV/)
 
 You can also reach me at <a target="_blank" id="contact" href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">michael.<span style="display:none">3829</span>freeman@insea<span style="display:none">k</span>d.edu</a>. I am especially interested in hearing from organizations - especially those working in the health sector - on opportunities to collaborate on projects of mutual interest.
 

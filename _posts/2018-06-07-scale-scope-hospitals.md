@@ -9,7 +9,7 @@ categories: posts
 
 ### Status
 
-Submitted to *Management Science*.
+Major revision at *Management Science*.
 
 ### Authors
 
