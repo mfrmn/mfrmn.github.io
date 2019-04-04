@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Economies of Scale and Scope in Hospitals
-date:   2018-06-07 08:00:00
+date:   2019-04-03 08:00:00
 categories: posts
 ---
 
@@ -9,7 +9,7 @@ categories: posts
 
 ### Status
 
-Major revision at *Management Science*.
+Submitted to *Management Science*.
 
 ### Authors
 
@@ -27,4 +27,4 @@ Health care; Productivity; Economies of scale; Economies of scope; Spillovers; E
 
 ### Downloads
 
-[Working paper](/research/articles/hospitalscalescope_june2018.pdf)
+[Working paper](/research/articles/hospitalspillovers_apr2019.pdf)

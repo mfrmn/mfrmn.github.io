@@ -5,12 +5,12 @@
 <lastmod>2016-02-22T20:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/scale-scope-hospitals</loc>
-<lastmod>2018-06-07T16:00:00+08:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/gatekeeping-under-congestion</loc>
 <lastmod>2018-10-20T16:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/scale-scope-hospitals</loc>
+<lastmod>2019-04-03T16:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
@@ -49,8 +49,8 @@
 <lastmod>2018-10-21T13:06:06+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/research/articles/hospitalscalescope_june2018.pdf</loc>
-<lastmod>2018-06-08T09:56:32+08:00</lastmod>
+<loc>http://localhost:4000/research/articles/hospitalspillovers_apr2019.pdf</loc>
+<lastmod>2019-04-03T20:24:56+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/articles/supplementary_gatekeepersatwork_mar2016.pdf</loc>
